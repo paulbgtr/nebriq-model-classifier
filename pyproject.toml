@@ -1,0 +1,21 @@
+[project]
+name = "nebriq-model-classifier"
+version = "0.1.0"
+description = ""
+authors = [{ name = "Paul Bogatyr", email = "hi@nebriq.com" }]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "transformers (>=4.50.2,<5.0.0)",
+    "datasets (>=3.4.1,<4.0.0)",
+    "evaluate (>=0.4.3,<0.5.0)",
+    "scikit-learn (>=1.6.1,<2.0.0)",
+    "torch (>=2.6.0,<3.0.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "accelerate (>=1.5.2,<2.0.0)",
+    "tensorboard (>=2.19.0,<3.0.0)",
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
