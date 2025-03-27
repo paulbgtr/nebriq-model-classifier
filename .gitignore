@@ -1,1 +1,5 @@
-nebriq-env
+# model
+model_output
+*.log
+logs
+final_model
