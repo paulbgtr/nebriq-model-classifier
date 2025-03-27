@@ -6,6 +6,9 @@ classifier = pipeline("text-classification", model=model_id)
 
 text = ""
 
+print("Welcome to the Nebriq Model Classifier!")
+print("Enter 'q' to quit.")
+
 while True:
     text = input("Enter a query: ")
     
