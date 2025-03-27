@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trai
 import evaluate
 import numpy as np
 
-raw_dataset = load_dataset("csv", data_files="../data/dataset.csv")["train"]
+raw_dataset = load_dataset("csv", data_files="data/dataset.csv")["train"]
 
 split_dataset = raw_dataset.train_test_split(test_size=0.2, seed=42)
 
@@ -36,7 +36,7 @@ model = AutoModelForSequenceClassification.from_pretrained(
 )
 
 training_args = TrainingArguments(
-    output_dir="../model_output",
+    output_dir="model_output",
     eval_strategy="epoch",
     save_strategy="epoch",
     learning_rate=2e-5,
@@ -44,7 +44,7 @@ training_args = TrainingArguments(
     per_device_eval_batch_size=8,
     num_train_epochs=5,
     weight_decay=0.01,
-    logging_dir="../logs",
+    logging_dir="logs",
     load_best_model_at_end=True,
     save_total_limit=1,
     report_to="tensorboard"
@@ -71,5 +71,5 @@ trainer.train()
 eval_results = trainer.evaluate()
 print(eval_results)
 
-trainer.save_model("../final_model")
-tokenizer.save_pretrained("../final_model")
+trainer.save_model("final_model")
+tokenizer.save_pretrained("final_model")
