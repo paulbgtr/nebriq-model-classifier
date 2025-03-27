@@ -1,5 +1,5 @@
 from datasets import load_dataset
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer, DataCollatorWithPadding 
 import evaluate
 import numpy as np
 
@@ -36,16 +36,18 @@ model = AutoModelForSequenceClassification.from_pretrained(
 )
 
 training_args = TrainingArguments(
-    output_dir="./model_output",
-    evaluation_strategy="epoch",
+    output_dir="../model_output",
+    eval_strategy="epoch",
     save_strategy="epoch",
     learning_rate=2e-5,
     per_device_train_batch_size=8,
     per_device_eval_batch_size=8,
     num_train_epochs=5,
     weight_decay=0.01,
-    logging_dir="./logs",
+    logging_dir="../logs",
     load_best_model_at_end=True,
+    save_total_limit=1,
+    report_to="tensorboard"
 )
 
 accuracy = evaluate.load("accuracy")
@@ -60,7 +62,7 @@ trainer = Trainer(
     args=training_args,
     train_dataset=train_dataset,
     eval_dataset=eval_dataset,
-    tokenizer=tokenizer,
+    data_collator=DataCollatorWithPadding(tokenizer),
     compute_metrics=compute_metrics,
 )
 
@@ -68,3 +70,6 @@ trainer.train()
 
 eval_results = trainer.evaluate()
 print(eval_results)
+
+trainer.save_model("../final_model")
+tokenizer.save_pretrained("../final_model")
