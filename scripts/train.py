@@ -1,5 +1,7 @@
 from datasets import load_dataset
-from transformers import AutoTokenizer
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer
+import evaluate
+import numpy as np
 
 raw_dataset = load_dataset("csv", data_files="../data/dataset.csv")["train"]
 
@@ -19,4 +21,50 @@ def encode_labels(batch):
     return batch
 
 train_dataset = train_dataset.map(tokenize, batched=True)
+train_dataset = train_dataset.map(encode_labels)
+train_dataset = train_dataset.remove_columns(["text", "label"])
+
 eval_dataset = eval_dataset.map(tokenize, batched=True)
+eval_dataset = eval_dataset.map(encode_labels)
+eval_dataset = eval_dataset.remove_columns(["text", "label"])
+
+model = AutoModelForSequenceClassification.from_pretrained(
+    "distilbert-base-uncased",
+    num_labels=3,  # у тебя 3 класса: simple, medium, advanced
+    id2label={v: k for k, v in label2id.items()},
+    label2id=label2id
+)
+
+training_args = TrainingArguments(
+    output_dir="./model_output",
+    evaluation_strategy="epoch",
+    save_strategy="epoch",
+    learning_rate=2e-5,
+    per_device_train_batch_size=8,
+    per_device_eval_batch_size=8,
+    num_train_epochs=5,
+    weight_decay=0.01,
+    logging_dir="./logs",
+    load_best_model_at_end=True,
+)
+
+accuracy = evaluate.load("accuracy")
+
+def compute_metrics(eval_pred):
+    logits, labels = eval_pred
+    predictions = np.argmax(logits, axis=-1)
+    return accuracy.compute(predictions=predictions, references=labels)
+
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=train_dataset,
+    eval_dataset=eval_dataset,
+    tokenizer=tokenizer,
+    compute_metrics=compute_metrics,
+)
+
+trainer.train()
+
+eval_results = trainer.evaluate()
+print(eval_results)
