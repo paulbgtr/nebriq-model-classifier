@@ -1,200 +1,965 @@
 text,label
-What’s the science of rainbows,medium
-Design a robotic arm,advanced
-Teach me about wine,medium
-Model climate change effects,advanced
-How do I tie a tie,medium
-Debate quantum ethics,advanced
-Predict economic trends,advanced
-What’s the best phone to buy,medium
-What’s the history of jazz,medium
-Suggest a hobby for kids,medium
-Develop a cryptography system,advanced
-What’s a bird,simple
-Do you know me,simple
-What’s 10 times 2,simple
-What caused the Big Bang,advanced
-Suggest a gift for mom,medium
-Analyze ancient philosophy,advanced
-How do I train a puppy,medium
-Design an AI ethics code,advanced
-How old are you,simple
-What’s the rules of soccer,medium
-Explain particle physics,advanced
-Design a space mission,advanced
-What’s the moon,simple
-Explain how vaccines work,medium
-What’s the history of bread,medium
-Explain DNA sequencing,advanced
-Are we there yet,simple
-What’s the smell like,simple
-Good morning,simple
-What’s the weather like,simple
-How does Wi-Fi work,medium
-Call mom,simple
-Analyze historical revolutions,advanced
-Say something nice,simple
-What’s a good movie plot,medium
-Explain superconductivity,advanced
-How does recycling work,medium
-Are you busy,simple
-What’s impressionism art,medium
-What’s the capital of France,simple
-Model ecological systems,advanced
-Teach me basic Spanish,medium
-What’s the psychology of love,advanced
-Analyze Shakespeare’s themes,advanced
-What’s the temperature,simple
-Debate universal basic income,advanced
-How do I spell cat,simple
-How do I boil water,simple
-Plan a picnic day,medium
-How do I fix a bike,medium
-What’s the origin of language,advanced
-Design a sustainable city,advanced
-What’s the life of a bee,medium
-Is it cold,simple
-How do I make coffee,medium
-Debate genetic engineering,advanced
-What’s the plot of Hamlet,medium
-Is the store open,simple
-Can you explain gravity,medium
-How do I grow tomatoes,medium
-Explain the multiverse,advanced
-Design a telemedicine platform,advanced
-What day is it,simple
-Explain ocean tides,medium
-What’s a good workout,medium
-What’s the time now,simple
-Explain cosmic inflation,advanced
-Develop a virtual reality world,advanced
-What’s a dog,simple
-Where’s the dog,simple
-How loud is it,simple
-Can you sing,simple
-What’s on TV,simple
-Explain gravitational waves,advanced
-Analyze modern architecture,advanced
-How high is that,simple
-Explain game theory,advanced
-Where’s my hat,simple
-What’s the story of Rome,medium
-How do I clean a laptop,medium
-Can you dance,simple
-Is this fun,simple
-Break down relativity theory,advanced
-Develop a machine learning app,advanced
-Design a simple website,medium
-Model a pandemic spread,advanced
-Are you awake,simple
-Design a water purification system,advanced
-Plan a trip to Paris,medium
-Play some music,simple
-Can I have a cookie,simple
-What’s my name,simple
-How tall am I,simple
-Do you see me,simple
-Is it dark outside,simple
-Explain chaos theory,advanced
-Can I sleep now,simple
-How do I fix a leaky faucet,medium
-What’s the culture of Japan,medium
-What color is the sky,simple
-Model quantum computing,advanced
-Debate free will,advanced
-Predict geopolitical shifts,advanced
-What’s for dinner,simple
-Pick a color,simple
-Hello there,simple
-How far is it,simple
-What’s a good book to read,medium
-Explain how clocks work,medium
-What’s a car,simple
-What’s climate change,medium
-Analyze existentialism,advanced
-How do I invest money,medium
-What’s photosynthesis,medium
-Plan a family game night,medium
-Debate ethics of AI,advanced
-How do I take photos,medium
-Design a fusion reactor,advanced
-Design a self-driving car system,advanced
-How do I sit,simple
-What’s the score,simple
-How do I make soap,medium
-How does a car engine work,medium
-Simulate galaxy formation,advanced
-How big is a cat,simple
-Explain dark matter,advanced
-Explain string theory,advanced
-Explain the water cycle,medium
-Develop a renewable energy plan,advanced
-What’s a healthy breakfast,medium
-Teach me about dinosaurs,medium
-What’s consciousness science,advanced
-How hot is it,simple
-Simulate a stock market,advanced
-How do I start a blog,medium
-Design an exoplanet explorer,advanced
-Turn on the lights,simple
-Do you like coffee,simple
-What’s the role of bees,medium
-Predict tech innovation,advanced
-Analyze mental health trends,advanced
-Where’s my phone,simple
-How do I sew a button,medium
-What’s the physics of time,advanced
-Analyze quantum mechanics,advanced
-Explain blockchain tech,advanced
-Are we friends,simple
-What’s a tree,simple
-How’s the food,simple
-Predict AI’s future role,advanced
-How do I build a shelf,medium
-What’s a mortgage,medium
-How do I knit a scarf,medium
-What’s the meaning of life,medium
-Model planetary orbits,advanced
-Analyze global trade impacts,advanced
-Analyze postmodern literature,advanced
-How do I write a poem,medium
-Make a budget for me,medium
-How do I bake a cake,medium
-Is this loud,simple
-How do I play chess,medium
-Explain how sound works,medium
-What’s my age,simple
-What’s a balanced diet,medium
-What’s your name,simple
-Explain neural networks,advanced
-How do I eat,simple
-What’s the chemistry of stars,advanced
-Analyze war strategy history,advanced
-How’s your day,simple
-Explain electricity basics,medium
-Explain how planes fly,medium
-Tell me a joke,simple
-How do I paint a room,medium
-How do I wave,simple
-What’s 5 minus 3,simple
-What’s 2 plus 2,simple
-Analyze cultural evolution,advanced
-What time is lunch,simple
-What’s the sociology of power,advanced
-What’s the anthropology of religion,advanced
-Analyze Renaissance art,advanced
 Teach me to draw a face,medium
-Debate space colonization,advanced
-What’s the history of dance,medium
-How do I meditate,medium
+What’s the psychology of persuasion,advanced
+How do I grill steak,medium
+What’s a good board game,medium
+How do I train a puppy,medium
+Develop a machine learning app,advanced
+Analyze cultural evolution,advanced
+What’s a pond,simple
+Is it humid,simple
+Where’s the playground,simple
+What’s the culture of Thailand,medium
+How do I pull,simple
+Are you sleepy,simple
+How do I make smoothies,medium
+What’s 3 times 2,simple
+Explain crystallography,advanced
+What’s the biology of symbiosis,advanced
+Design a solar-powered aircraft,advanced
+How do I repair a bicycle chain,medium
+Teach me about the human brain,medium
+Design a space elevator concept,advanced
+Model neutrino interactions,advanced
 What’s the history of tea,medium
-What’s the biology of aging,advanced
-How many days in a week,simple
-Simulate brain functions,advanced
-Where’s the bathroom,simple
-Teach me about stars,medium
+What’s 13 plus 4,simple
+How do I install a light fixture,medium
+How do I repair a wall crack,medium
+Develop a cryptography system,advanced
+How do I learn to dance,medium
+Predict virtual currency trends,advanced
+Are you cold,simple
+Analyze the history of medicine,advanced
+Where’s my laptop,simple
+Is this bitter,simple
+What’s 18 plus 3,simple
+How do I fix a jammed door,medium
+Explain organic chemistry reactions,advanced
+Debate animal rights,advanced
+What’s my job,simple
+Debate quantum ethics,advanced
+Explain gauge theory,advanced
+Debate the ethics of virtual reality escapism,advanced
+Suggest a DIY project,medium
+What’s a fish,simple
+Debate the ethics of autonomous weapons,advanced
+Analyze the history of economics,advanced
+Design a hyperloop system,advanced
+How do I build a model rocket,medium
+How high is that,simple
+Are you nervous,simple
+Explain fractal geometry,advanced
+What’s the role of wetlands,medium
+How do I paint a room,medium
+How do I make sushi,medium
+Analyze the philosophy of technology,advanced
+Analyze modernist literature,advanced
+What’s my favorite season,simple
+What’s a sustainable lifestyle,medium
+How old are you,simple
+What’s the date,simple
+What’s a train,simple
+Plan a hiking trip,medium
+Can you sing,simple
+Design a telemedicine platform,advanced
+How do I make lemonade,medium
+What’s a glacier,simple
+What’s a valley,simple
+Design a deep-sea exploration vehicle,advanced
+Design a sustainable aquaculture system,advanced
+Plan a photography outing,medium
+What’s a balanced diet,medium
+How do I create a playlist,medium
+How do I make pottery,medium
+Explain superconductivity,advanced
+What’s my favorite dessert,simple
+Model dark energy expansion,advanced
+What’s the history of democracy,medium
+What’s 12 minus 3,simple
+Is the store open,simple
+Analyze avant-garde theater,advanced
+How do I brew beer,medium
+How do I clean a fridge,medium
+Simulate wildfire spread,advanced
+How do I build a shelf,medium
+What’s a good skincare routine,medium
+Where’s my jacket,simple
+How do I make a kite,medium
+What’s the shape,simple
+How do I care for a cat,medium
+What’s the physics of time,advanced
+Explain blockchain tech,advanced
+Analyze mental health trends,advanced
+Analyze the history of robotics,advanced
+Debate the ethics of eugenics,advanced
+Analyze minimalist art,advanced
+Where’s my key,simple
+Is this soft,simple
+What’s the culture of Spain,medium
+Can you wink,simple
+Plan a camping trip,medium
+What’s a good soup recipe,medium
+What’s the psychology of group behavior,advanced
+Is it dark outside,simple
+How do I listen,simple
+What’s the physics of flight,advanced
+Simulate a stock market,advanced
+How do I repair a leaky roof,medium
+How many birds,simple
+What’s the history of medicine,medium
+What’s 6 times 3,simple
+How do I stretch,simple
+Develop a disaster response AI,advanced
+Are you proud,simple
+How do I learn origami,medium
+How do I push,simple
+What’s the meaning of life,medium
+Simulate ocean currents,advanced
+Predict geopolitical shifts,advanced
+What’s 10 minus 5,simple
+Where’s the dog,simple
+Model relativistic particle dynamics,advanced
+How do I write a song,medium
+Explain the Fermi paradox,advanced
+Explain the physics of lasers,advanced
+What’s a good documentary,medium
+Teach me about the Industrial Revolution,medium
+What’s a good movie plot,medium
+Develop a microgrid energy system,advanced
+What’s the height,simple
+How do I make coffee,medium
+What’s a good book to read,medium
+Where’s my phone charger,simple
+What’s the anthropology of ritual,advanced
+Do you know me,simple
+How many windows,simple
+What’s the noise,simple
+What’s 2 times 5,simple
+Teach me about renewable energy,medium
+Is it dusty,simple
+What’s 8 times 2,simple
+What’s the psychology of decision-making,advanced
+Analyze epic poetry,advanced
+Explain the holographic principle,advanced
+What’s consciousness science,advanced
+Is this sweet,simple
+How do I sing,simple
+Do you like coffee,simple
+Predict social media evolution,advanced
+Explain the physics of magnetism,advanced
+What’s the sociology of technology,advanced
+Predict AI’s future role,advanced
+Are you hungry,simple
+How do I catch,simple
+Can you shout,simple
+Can you clap,simple
+What’s the width,simple
+What’s the life of a bee,medium
+Model tidal energy systems,advanced
+Develop a space debris cleanup system,advanced
+Develop a nanotechnology device,advanced
+Where’s the park,simple
+Teach me about wine,medium
+How do I laugh,simple
+Analyze feminist philosophy,advanced
+Explain how satellites work,medium
+What’s a good travel destination,medium
+Develop a swarm robotics system,advanced
+Plan a birthday party,medium
+Explain game theory,advanced
+Hello there,simple
+Debate artificial consciousness,advanced
+How do I take photos,medium
+What’s 6 plus 1,simple
+Design a biodegradable material,advanced
+What’s a good workout,medium
+How do I invest money,medium
+Can you giggle,simple
+Can you jump,simple
+Suggest a gardening tip,medium
+Explain neural networks,advanced
+Analyze the history of mathematics,advanced
+What’s 8 plus 9,simple
+How do I draw,simple
+What’s the culture of Australia,medium
+What’s the neuroscience of memory,advanced
+Explain field theory in physics,advanced
+Design a water purification system,advanced
+Explain quantum field theory,advanced
+Design a Mars habitat,advanced
+What’s a good breakfast smoothie,medium
+Suggest a gift for mom,medium
+How do I care for a fish tank,medium
+Explain non-Euclidean geometry,advanced
+Design a wearable health monitor,advanced
+Teach me about volcanoes,medium
+What’s a good podcast,medium
+What’s the role of fungi,medium
+Explain how shadows work,medium
+Design a high-speed rail network,advanced
+Are you scared,simple
+What’s the biology of stress,advanced
+What’s a car,simple
+How many books,simple
+What’s 20 minus 10,simple
+What’s the culture of Italy,medium
+Can you explain gravity,medium
+What’s the history of video games,medium
+What’s the psychology of love,advanced
+Can I go outside,simple
+Is the cat here,simple
+Explain enzyme kinetics,advanced
+What’s 17 plus 1,simple
+Predict renewable fuel trends,advanced
+What’s the psychology of creativity,advanced
 Is it raining,simple
+Simulate earthquake patterns,advanced
+Suggest a gift for a grandparent,medium
+Analyze the ethics of surveillance,advanced
+How does recycling work,medium
+What’s the culture of China,medium
+Design a kinetic energy harvester,advanced
+What’s a river,simple
+What’s the history of architecture,medium
+What’s on TV,simple
+Are you shy,simple
+How do I make a friendship bracelet,medium
+Design a smart city infrastructure,advanced
+How do I smile,simple
+Develop a carbon capture system,advanced
+Plan a city tour,medium
+Where’s my phone,simple
+How do I make a salad,medium
+What’s 9 plus 3,simple
+What’s the flavor,simple
+Design a simple website,medium
+Model ecological systems,advanced
+How do I stand,simple
+Simulate solar system formation,advanced
+How do I throw,simple
+What’s the temperature,simple
+How do I sleep,simple
+Teach me about famous inventors,medium
+Analyze war strategy history,advanced
+Suggest a gift for a coworker,medium
+Explain DNA sequencing,advanced
+How do I learn calligraphy,medium
+Simulate galaxy formation,advanced
+Analyze classical mythology,advanced
+How do I play the piano,medium
+Can you talk,simple
+Where’s my wallet,simple
+Where’s the office,simple
+What’s my favorite drink,simple
+Suggest a gift for a child,medium
+How do I clean a carpet,medium
+Design a lunar base,advanced
+Where’s my scarf,simple
+Analyze the history of linguistics,advanced
+Teach me about the moon,medium
+What’s the story of Shakespeare,medium
+Analyze Gothic literature,advanced
+How do I clean a microwave,medium
+Can you dance,simple
+Analyze the ethics of data ownership,advanced
+Plan a cultural festival,medium
+What’s a good fantasy novel,medium
+What’s 10 plus 8,simple
+Explain how email works,medium
+How do I sit,simple
+Is this fun,simple
+Are you busy,simple
+Explain how elevators work,medium
+How many fish,simple
+What’s my age,simple
+Explain how the lungs work,medium
+Analyze historical revolutions,advanced
+How do I fix a leaky faucet,medium
+Explain how submarines work,medium
+What’s my favorite place,simple
+What’s 4 plus 6,simple
+Model atmospheric chemistry,advanced
+How do I paint,simple
+Explain how clocks work,medium
+Model exoplanet atmospheres,advanced
+Explain the physics of turbulence,advanced
+Explain the theory of relativity,advanced
+What’s 13 minus 7,simple
+What’s a star,simple
+Explain how solar panels work,medium
+Teach me about quantum physics,medium
+Is it bright,simple
+Explain perturbation theory,advanced
+Teach me basic French,medium
+Where’s my book,simple
+What’s a good action movie,medium
+How many hours,simple
+Explain how a thermometer works,medium
+What’s the origin of language,advanced
+Turn on the lights,simple
+Are you excited,simple
+What’s the anthropology of food,advanced
+Is it warm,simple
 Plan a date night,medium
-How do black holes form,advanced
-Explain the solar system,medium
+Design a geothermal energy plant,advanced
+What’s the history of aviation,medium
+Explain how the stock market works,medium
+How do I make candles,medium
+Analyze the history of geography,advanced
+Analyze cubist art,advanced
+Analyze folk music traditions,advanced
+Explain how wind energy works,medium
+Can you wave,simple
+Predict economic trends,advanced
+How do I point,simple
+How tall am I,simple
+Where’s the table,simple
+Suggest a fun science experiment,medium
+What’s the chemistry of climate,advanced
+What’s my favorite holiday,simple
+Design a zero-waste system,advanced
 Send a text,simple
+How do I care for houseplants,medium
+What’s the anthropology of trade,advanced
+What’s my height,simple
+Teach me about constellations,medium
+Explain solid-state physics,advanced
+Is this sharp,simple
+Develop a quantum encryption protocol,advanced
+Teach me about stars,medium
+Are you bored,simple
+Explain how plants grow,medium
+Explain the physics of optics,advanced
+Where’s my hat,simple
+Debate free will,advanced
+How does a car engine work,medium
+What day is it,simple
+What’s the history of theater,medium
+Plan a picnic day,medium
+What’s the biology of regeneration,advanced
+What’s a hill,simple
+How do I eat,simple
+Simulate brain functions,advanced
+Is it windy,simple
+How do I learn to swim,medium
+What’s the story of the pyramids,medium
+What’s the history of the internet,medium
+How do I repair a torn shirt,medium
+Where’s the window,simple
+How do I run,simple
+Do you see me,simple
+Predict AI governance models,advanced
+Suggest a meditation technique,medium
+Debate the ethics of synthetic life,advanced
+What’s 8 minus 2,simple
+What’s 9 times 5,simple
+Say something nice,simple
+What’s my favorite food,simple
+What’s the capital of France,simple
+What’s the weather like,simple
+What’s the weight,simple
+Explain photonics,advanced
+How do I tie a tie,medium
+What’s a cloud,simple
+Model stellar evolution,advanced
+How do I clean windows,medium
+Explain how planes fly,medium
+How do I clean a laptop,medium
+Analyze Baroque music,advanced
+Analyze the philosophy of mind,advanced
+Is this rough,simple
+How do I kick,simple
+How does Wi-Fi work,medium
+What’s my favorite animal,simple
+What’s the psychology of fear,advanced
+How do I knock,simple
+Model atmospheric circulation,advanced
+What’s the story of the Titanic,medium
+Is it foggy,simple
+Is it clear,simple
+How do I fix a squeaky floor,medium
+Explain fluid dynamics,advanced
+Plan a fishing trip,medium
+How do I grow mushrooms,medium
+Is this smooth,simple
+What’s the anthropology of death,advanced
+Explain how dams work,medium
+Explain how a microwave works,medium
+What’s the role of bees,medium
+What’s the history of bread,medium
+What’s a good kids’ book,medium
+Is this spicy,simple
+Explain computational neuroscience,advanced
+Predict biotech advancements,advanced
+Analyze the history of physics,advanced
+Model quantum decoherence,advanced
+What’s my pet’s name,simple
+Model a pandemic spread,advanced
+How do I play poker,medium
+Plan a weekend getaway,medium
+What’s a wall,simple
+Analyze postmodern literature,advanced
+Suggest a craft for kids,medium
+How do I sew a button,medium
+Explain how a printer works,medium
+Plan a charity event,medium
+Where’s my cup,simple
+How’s the food,simple
+Develop a virtual reality world,advanced
+Where’s the zoo,simple
+Is this light,simple
+What’s my favorite game,simple
+What caused the Big Bang,advanced
+Explain how volcanoes erupt,medium
+Explain the Casimir effect,advanced
+What’s the volume,simple
+Is it slippery,simple
+Explain how a telescope works,medium
+Model biodiversity loss,advanced
+What’s a good comedy movie,medium
+Is it stormy,simple
+Debate the ethics of immortality,advanced
+Simulate atmospheric dynamics,advanced
+Model solar flare impacts,advanced
+Explain the physics of fusion,advanced
+How many stars,simple
+Explain how a compass works,medium
+Explain ocean tides,medium
+What’s the taste,simple
+Suggest a creative writing prompt,medium
+Plan a holiday party,medium
+Explain how a refrigerator works,medium
+Predict quantum technology breakthroughs,advanced
+Design a space mission,advanced
+Explain how glaciers form,medium
+How do I care for a dog,medium
+What’s the biology of sleep,advanced
+Design a smart grid,advanced
+Explain chaos theory,advanced
+How do I fix a broken chair,medium
+What’s a tower,simple
+What’s a cave,simple
+Where’s the kitchen,simple
+Develop an antimatter propulsion concept,advanced
+Explain tectonic plate dynamics,advanced
+How do I bend,simple
+Where’s the farm,simple
+Debate ethics of AI,advanced
+Analyze global migration patterns,advanced
+Where’s the school,simple
+What’s the sociology of family,advanced
+How many plants,simple
+Model protein folding,advanced
+What’s 11 minus 6,simple
+How do I clap,simple
+What’s the best phone to buy,medium
+What’s the role of rivers,medium
+What’s the chemistry of stars,advanced
+Design a vertical farming system,advanced
+What’s a tree,simple
+How do I cook rice,medium
+Explain electricity basics,medium
+What time is lunch,simple
+Analyze surrealist art,advanced
+What’s a road,simple
+How do I spell cat,simple
+Analyze the history of chemistry,advanced
+How do I create a compost bin,medium
+Explain how earthquakes happen,medium
+How loud is it,simple
+How many days in a week,simple
+What’s the history of music,medium
+What’s the history of fashion,medium
+Design a flood-resistant city,advanced
+Plan a movie marathon,medium
+What’s 15 divided by 3,simple
+What’s a field,simple
+Analyze musical composition theory,advanced
+Debate posthumanism,advanced
+How do I knit a scarf,medium
+Explain the water cycle,medium
+Analyze the philosophy of ethics,advanced
+Analyze romantic poetry,advanced
+Teach me about coral reefs,medium
+What color is the sky,simple
+Teach me about dinosaurs,medium
+How many lights,simple
+What’s a house,simple
+What’s the sociology of religion,advanced
+Analyze the ethics of privacy,advanced
+What’s your name,simple
+What’s the story of Rome,medium
+What’s the anthropology of war,advanced
+Are you happy,simple
+Teach me about famous poets,medium
+What’s a stream,simple
+Design a reusable rocket system,advanced
+Plan a beach day,medium
+Explain neutrino oscillations,advanced
+Explain how a camera lens works,medium
+How do I train for a marathon,medium
+Pick a color,simple
+Can you write,simple
+What’s a good romance novel,medium
+Can you whistle,simple
+How do I read,simple
+Explain how fog forms,medium
+How do I make pasta,medium
+How do I bake cookies,medium
+What’s 5 plus 4,simple
+Teach me basic Spanish,medium
+Where’s the station,simple
+Suggest a gift for a neighbor,medium
+Is this heavy,simple
+How do I care for a bird,medium
+Suggest a gift for a spouse,medium
+How’s your day,simple
+Explain differential geometry,advanced
+Analyze the ethics of censorship,advanced
+Explain how seasons change,medium
+Where’s the bathroom,simple
+What’s an island,simple
+Predict nanotechnology impacts,advanced
+How do I fix a flat tire,medium
+How do I make a pizza,medium
+How do I hop,simple
+Explain the multiverse,advanced
+Is it shiny,simple
+Is it crowded,simple
+Develop a holographic display,advanced
+What’s a meadow,simple
+What’s a boat,simple
+What’s impressionism art,medium
+Simulate asteroid impacts,advanced
+Explain how the immune system works,medium
+Explain how bridges are built,medium
+Explain stochastic processes,advanced
+Teach me about earthquakes,medium
+How many apples,simple
+Design a sustainable city,advanced
+Explain topological physics,advanced
+Where’s the mall,simple
+What’s the history of photography,medium
+Teach me about the periodic table,medium
+Explain thermodynamics of life,advanced
+Explain loop quantum gravity,advanced
+What’s the sociology of power,advanced
+Analyze the history of engineering,advanced
+Is it sunny,simple
+What’s the culture of Russia,medium
+Debate universal basic income,advanced
+What’s a cliff,simple
+What’s a dog,simple
+Model glacier retreat,advanced
+What’s a mortgage,medium
+What’s my favorite song,simple
+Teach me about famous scientists,medium
+Where’s my shoe,simple
+How do I build a desk,medium
+Design a self-driving car system,advanced
+Model quantum computing,advanced
+Analyze postcolonial theory,advanced
+Analyze existentialism,advanced
+Explain how GPS works,medium
+What’s my name,simple
+Explain synthetic biology,advanced
+Analyze modern architecture,advanced
+Develop a peer-to-peer energy grid,advanced
+How fast is it,simple
+What’s the history of film,medium
+Explain how a light bulb works,medium
+Debate the ethics of mind uploading,advanced
+Is this tall,simple
+What’s a good horror movie,medium
+Explain how thunder works,medium
+Debate the ethics of cloning,advanced
+What’s the story of the Olympics,medium
+How do I brew tea,medium
+Teach me about famous explorers,medium
+How do I cook salmon,medium
+What’s the speed,simple
+What’s 16 divided by 2,simple
+Suggest a fitness challenge,medium
+Where’s my coat,simple
+What’s the history of writing,medium
+What’s the psychology of identity,advanced
+Explain graph theory,advanced
+Where’s my chair,simple
+Simulate black hole mergers,advanced
+Where’s my glasses,simple
+Predict quantum computing milestones,advanced
+How do I start a garden,medium
+What’s the physics of superconductors,advanced
+What’s a mountain,simple
+What’s the ecology of coral reefs,advanced
+Debate the simulation hypothesis,advanced
+Plan a craft day,medium
+Debate interstellar travel feasibility,advanced
+How do I make a paper airplane,medium
+Is it quiet,simple
+How do I play chess,medium
+Predict tech innovation,advanced
+How many chairs,simple
+Is it hot outside,simple
+How do I train a horse,medium
+Suggest a weekend hobby,medium
+Explain the solar system,medium
+Analyze the history of biology,advanced
+What’s a good historical movie,medium
+How do I blink,simple
+Design a portable desalination device,advanced
+Develop a blockchain voting system,advanced
+Explain how lasers work,medium
+Are you awake,simple
+Debate genetic engineering,advanced
+Design an autonomous drone network,advanced
+Analyze ancient sculpture,advanced
+Can you hum,simple
+What’s a beach,simple
+Plan a dinner party,medium
+Where’s the museum,simple
+How do I start a book club,medium
+What’s 12 plus 4,simple
+How many houses,simple
+How do I write a short story,medium
+What’s the time now,simple
+Are you sad,simple
+What’s a flower,simple
+Analyze the history of cryptography,advanced
+Analyze quantum mechanics,advanced
+How do I grow flowers,medium
+Are you surprised,simple
+Analyze the philosophy of art,advanced
+Explain how magnets work,medium
+How do I make a dreamcatcher,medium
+How do I make a vision board,medium
+How do I tilt,simple
+Analyze the evolution of democracy,advanced
+What’s the sociology of inequality,advanced
+How do I learn to skateboard,medium
+Design a synthetic organ,advanced
+Suggest a gift for a friend,medium
+Explain cosmic inflation,advanced
+What’s a healthy breakfast,medium
+Is this wet,simple
+What’s the history of cars,medium
+Plan a stargazing night,medium
+How do black holes form,advanced
+How do I lift,simple
+Explain plasma physics,advanced
+Predict AI-driven job displacement,advanced
+How many fingers,simple
+Design a photon-based computer,advanced
+Design an exoplanet explorer,advanced
+How do I bake bread,medium
+Explain evolutionary psychology,advanced
+Is the door locked,simple
+Explain blockchain,medium
+What’s my favorite movie,simple
+How do I hug,simple
+What’s climate change,medium
+Design a hydrogen fuel system,advanced
+What’s the texture,simple
+Where’s my pillow,simple
+Explain algebraic topology,advanced
+How many cars,simple
+Suggest a gift for dad,medium
+Plan a scavenger hunt,medium
+How do I boil water,simple
+What’s the biology of aging,advanced
+Is it cloudy,simple
+Develop a renewable energy plan,advanced
+Can you laugh,simple
+Can you run,simple
+What’s the neuroscience of learning,advanced
+Can you draw,simple
+How do I grow herbs indoors,medium
+Good morning,simple
+Plan a museum visit,medium
+How do I spin,simple
+How do I roast vegetables,medium
+What’s the history of jazz,medium
+How do I make soap,medium
+Where’s the beach,simple
+How do I bake a cake,medium
+What’s the history of dance,medium
+How do I fix a cracked phone screen,medium
+How do I grow tomatoes,medium
+What’s the sound like,simple
+What’s a forest,simple
+Design a robotic arm,advanced
+How hot is it,simple
+Design an augmented reality tool,advanced
+How do I play soccer tricks,medium
+Explain biochemical signaling,advanced
+What’s the history of animation,medium
+Analyze the sociology of crime,advanced
+Explain how TV works,medium
+What’s 6 plus 7,simple
+What’s the history of sculpture,medium
+Analyze medieval architecture,advanced
+What’s the philosophy of science,advanced
+What’s 11 plus 5,simple
+Explain the carbon cycle,medium
+How do I jump,simple
+How many dogs,simple
+Explain how rivers form,medium
+What’s the history of soccer,medium
+Explain the human digestive system,medium
+Where’s the theater,simple
+How do I skip,simple
+What’s the history of painting,medium
+Simulate volcanic eruptions,advanced
+What’s 20 divided by 4,simple
+Analyze neoclassical economics,advanced
+What’s 2 plus 2,simple
+How do I swim,simple
+What’s a chair,simple
+How do I repair a zipper,medium
+How do I make jam,medium
+How do I make ice cream,medium
+Explain gravitational waves,advanced
+Explain how a radio works,medium
+What’s the biology of cancer,advanced
+What’s 4 times 3,simple
+Teach me about the atmosphere,medium
+Explain continuum mechanics,advanced
+Predict space tourism trends,advanced
+Plan a trip to Paris,medium
+What’s 7 minus 1,simple
+What’s a castle,simple
+How do I start a YouTube channel,medium
+Explain systems biology,advanced
+Suggest a hobby for kids,medium
+Where’s my umbrella,simple
+What’s my favorite color,simple
+Explain quantum entanglement,advanced
+Is it cold,simple
+What’s the moon,simple
+Explain metabolic pathways,advanced
+What’s the history of space travel,medium
+Play some music,simple
+How do I plant a tree,medium
+What’s a bird,simple
+How deep is it,simple
+Explain dark matter,advanced
+Design a wind energy optimizer,advanced
+How do I build a birdhouse,medium
+Explain particle physics,advanced
+What’s the role of forests,medium
+Can you nod,simple
+Can I have a cookie,simple
+Analyze ancient philosophy,advanced
+What’s a good thriller book,medium
+What’s the sociology of education,advanced
+Model cosmic microwave background,advanced
+Simulate magnetospheric dynamics,advanced
+How do I fix a bike,medium
+Develop a brain-computer interface,advanced
+Explain how the heart works,medium
+Explain how waves form,medium
+Explain relativistic quantum mechanics,advanced
+Are you angry,simple
+What’s the culture of Mexico,medium
+How do I whisper,simple
+Where’s my pen,simple
+Explain the origins of life,advanced
+What’s the history of chocolate,medium
+Explain string theory,advanced
+What’s the psychology of addiction,advanced
+Simulate planetary collisions,advanced
+Analyze global trade impacts,advanced
+Simulate supernova explosions,advanced
+Call mom,simple
+What’s the neuroscience of emotions,advanced
+What’s 7 times 2,simple
+Debate the legalization of recreational marijuana,advanced
+Simulate quantum teleportation,advanced
+What’s 14 plus 2,simple
+How do I climb,simple
+How do I twist,simple
+What’s the smell like,simple
+Predict renewable energy adoption,advanced
+Is this loud,simple
+Explain information theory,advanced
+Is this empty,simple
+Can you read,simple
+Debate the ethics of geoengineering,advanced
+Analyze the philosophy of language,advanced
+Explain how vaccines work,medium
+What’s the distance,simple
+Analyze impressionist painting,advanced
+How do I wave,simple
+Design a cryogenic storage system,advanced
+What’s a good dinner recipe,medium
+Model gravitational lensing,advanced
+Are you warm,simple
+Are we friends,simple
+Tell me a joke,simple
+How do I dance,simple
+Model oceanic acidification,advanced
+What’s a good dessert recipe,medium
+What’s a good sci-fi book,medium
+Simulate climate feedback loops,advanced
+Simulate genetic mutations,advanced
+Are you curious,simple
+Suggest a rainy day activity,medium
+What’s the science of rainbows,medium
+What’s for dinner,simple
+Suggest a cooking class,medium
+What’s the length,simple
+Debate space colonization,advanced
+What’s the history of coffee,medium
+How many cats,simple
+Where’s the pool,simple
+What’s a planet,simple
+Design an AI ethics code,advanced
+What’s the anthropology of religion,advanced
+What’s the culture of Greece,medium
+Plan a road trip,medium
+What’s a plane,simple
+What’s my favorite sport,simple
+Design a nuclear waste solution,advanced
+What’s 15 plus 6,simple
+Explain statistical mechanics,advanced
+How do I play guitar chords,medium
+Explain the physics of sound,advanced
+How do I meditate,medium
+Simulate particle collisions,advanced
+Plan a trivia night,medium
+Do you like tea,simple
+Analyze the history of sociology,advanced
+Predict autonomous vehicle adoption,advanced
+Analyze the ethics of war,advanced
+Explain knot theory,advanced
+Explain category theory,advanced
+How does a camera work,medium
+How do I write a resume,medium
+Can I sleep now,simple
+Simulate tectonic shifts,advanced
+Analyze the philosophy of justice,advanced
+Simulate urban growth,advanced
+Suggest a gift for a teacher,medium
+Make a budget for me,medium
+Design a bionic limb,advanced
+Can you count,simple
+Explain molecular dynamics,advanced
+Predict cybersecurity threats,advanced
+How do I build a fire pit,medium
+Analyze Shakespeare’s themes,advanced
+Explain how mirrors work,medium
+What’s my birthday,simple
+How do I play basketball,medium
+Design a modular housing system,advanced
+Develop a decentralized internet,advanced
+Explain the anthropic principle,advanced
+What’s the price,simple
+Where’s my watch,simple
+Explain how batteries work,medium
+Teach me about Greek mythology,medium
+Predict climate migration patterns,advanced
+How do I make a scrapbook,medium
+What’s photosynthesis,medium
+Model electromagnetic interference,advanced
+What’s 9 minus 4,simple
+What’s the score,simple
+What’s the culture of Brazil,medium
+Break down relativity theory,advanced
+Analyze the history of anthropology,advanced
+How do I fix a slow computer,medium
+What’s 19 minus 4,simple
+How do I start a blog,medium
+How do I unclog a drain,medium
+How many trees,simple
+Is this cold,simple
+Teach me about medieval times,medium
+Analyze the rise of nationalism,advanced
+Is it dry,simple
+Is this salty,simple
+Plan a book club meeting,medium
+Predict global water scarcity,advanced
+What’s a bridge,simple
+What’s the biology of immunity,advanced
+Design a bioengineered ecosystem,advanced
+Is this sticky,simple
+Explain how the kidneys work,medium
+How far is it,simple
+Are you calm,simple
+How do I organize a closet,medium
+How do I write a poem,medium
+Design a fusion reactor,advanced
+Develop a climate adaptation strategy,advanced
+Design a 3D printing ecosystem,advanced
+How do I bake a pie,medium
+What’s 3 plus 8,simple
+Is this sour,simple
+What’s the story of Cleopatra,medium
+Teach me about famous artists,medium
+What’s a lake,simple
+What’s 10 times 2,simple
+Predict genetic editing outcomes,advanced
+Debate the ethics of time travel,advanced
+How do I shake,simple
+Are you tired,simple
+Explain stellar nucleosynthesis,advanced
+Where’s my sock,simple
+Where’s the library,simple
+Model planetary orbits,advanced
+How do I refinish furniture,medium
+What’s a swamp,simple
+Analyze dystopian fiction,advanced
+Good night,simple
+What’s a tunnel,simple
+Where’s the car,simple
+Teach me about evolution,medium
+What’s my favorite book,simple
+Design a microbial fuel cell,advanced
+What’s the culture of India,medium
+Suggest a gift for a sibling,medium
+What’s the plot of Macbeth,medium
+Analyze the sociology of gender,advanced
+Analyze the history of astronomy,advanced
+What’s the plot of Hamlet,medium
+Plan a volunteer day,medium
+How do I start a podcast,medium
+What’s for breakfast,simple
+Debate the ethics of animal testing,advanced
+What’s a volcano,simple
+Explain how sound works,medium
+How big is a cat,simple
+Teach me about ancient Egypt,medium
+What’s the story of World War I,medium
+Explain how rainforests thrive,medium
+Develop a quantum sensor,advanced
+What’s a city,simple
+Can you snap,simple
+Suggest a team-building activity,medium
+How do I train my voice,medium
+How do I train a parrot,medium
+How do I roll,simple
+Are we there yet,simple
+Where’s the garden,simple
+Model climate change effects,advanced
+What’s the rules of soccer,medium
+What’s the pattern,simple
+What’s the culture of Japan,medium
+What’s the size,simple
+What’s the anthropology of mythology,advanced
+Plan a family game night,medium
+How do I train for a 5K,medium
+What’s a desert,simple
+What’s the lifecycle of a frog,medium
+Analyze Renaissance art,advanced
+How many clouds,simple
+Is it snowing,simple
+What’s the anthropology of music,advanced
+What’s 5 minus 3,simple
+How do I create a workout plan,medium
+What’s a good vegan recipe,medium
+Suggest a gift for a boss,medium
+Where’s my bag,simple
+What’s a good mystery novel,medium
+Develop a holographic interface,advanced
+What’s 7 plus 5,simple
+Develop a neural prosthetics system,advanced
+How do I tie a bowtie,medium
